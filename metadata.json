@@ -1,0 +1,6 @@
+{
+  "name": "APHELION",
+  "description": "Monochrome orbital gravity slingshot and precision docking game.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
